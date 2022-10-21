@@ -1,0 +1,30 @@
+{
+    "name": "🌷 𝐁𝐚𝐧 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 🌷",
+    "logo": "Bikash"
+    "description": "📌 𝐈'𝐦 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮 𝐓𝐨 𝐁𝐚𝐧 𝐀𝐧𝐲 𝐆𝐫𝐩𝐮𝐩 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐀𝐧𝐝 𝐀𝐥𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐅𝐫𝐨𝐦 𝐓𝐡𝐞 𝐆𝐫𝐨𝐮𝐩 ✅",
+    "repository": "https://github.com/BikashHalderNew/Banall",
+    "image": "heroku/python",
+    "env": {
+        "BOT_TOKEN": {
+        "description": "Get this value from @BotFather"
+        },
+        "API_HASH":{
+            "description": "Get this value from https://my.telegram.org"
+        },
+        "API_ID":{
+            "description": "Get this value from https://my.telegram.org"
+        },    
+        "OWNER":{
+            "description": "Enter your full username with @"
+        },
+        "SUDO":{
+            "description": "Enter Your Sudo Access Id"
+        }
+    },
+    "formation": {
+            "worker": {
+                "quantity": 1,
+                "size": "free"
+            }
+        }
+  }
