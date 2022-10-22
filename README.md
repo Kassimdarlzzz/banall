@@ -7,7 +7,7 @@
 ## 𝐇𝐞𝐫𝐨𝐤𝐮 𝐃𝐞𝐩𝐥𝐨𝐲 🇮🇳
 🌷 𝐇𝐨𝐬𝐭 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝐁𝐞𝐜𝐚𝐮𝐬𝐞 𝐇𝐞𝐫𝐨𝐤𝐮 𝐇𝐨𝐬𝐭 𝐈𝐬 𝐄𝐚𝐬𝐲 🌷
 
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BikashhalderNew/Banall)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kassimdarlzzz/Banall)
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭
 [𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
