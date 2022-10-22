@@ -1,7 +1,7 @@
 {
     "name": "🌷 𝐁𝐚𝐧 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 🌷",
     "description": "📌 𝐈'𝐦 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮 𝐓𝐨 𝐁𝐚𝐧 𝐀𝐧𝐲 𝐆𝐫𝐩𝐮𝐩 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐀𝐧𝐝 𝐀𝐥𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐅𝐫𝐨𝐦 𝐓𝐡𝐞 𝐆𝐫𝐨𝐮𝐩 ✅",
-    "repository": "https://github.com/BikashHalderNew/Banall",
+    "repository": "https://github.com/kassimdarlzzz/Banall",
     "image": "heroku/python",
     "env": {
         "BOT_TOKEN": {
